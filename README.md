@@ -40,7 +40,7 @@ This dataset repository is curated to:
 ---
 
 ## 🌐 **About Me**
-🔹 **Portfolio Website:** [hai262.github.io]([https://hai262.github.io/](https://hai262.github.io/hainguyen.github.io/))  
+🔹 **Portfolio Website:** [hai262.github.io](https://hai262.github.io/hainguyen.github.io/)  
 🔹 **GitHub Profile:** [github.com/hai262](https://github.com/hai262)  
 🔹 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/hai-nguyen-quoc-287953200/)  
 
