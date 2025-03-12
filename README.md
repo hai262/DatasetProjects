@@ -15,6 +15,7 @@ Below is a list of datasets provided in this repository, along with their respec
 | **Reviews_temp.csv** | Product reviews dataset for recommendation systems | [Launch App](https://hai262-tikirecommendersystem.streamlit.app/) |
 | **test_titanic.csv** | Test dataset for Titanic survival prediction | [Launch App](https://hai262-titanicprediction.streamlit.app/) |
 | **train_titanic.csv** | Training dataset for Titanic survival prediction | [Launch App](https://hai262-titanicprediction.streamlit.app/) |
+| **coffee_point_data.csv** | Coffee shop sales and customer behavior analysis | [Launch App](https://hai262-coffeepointdataanalysis.streamlit.app/) |
 | **Sample_Text.txt** | Sample text data for NLP and sequence modeling | [Launch App](https://hai262-textgenerationevaluation.streamlit.app/) |
 | **AI_Text.txt** | Dataset for **Text Generation Evaluation** and BLEU Score calculations | [Launch App](https://hai262-textgenerationevaluation.streamlit.app/) |
 | **Data Analysis and Visualization Report_HaiNguyen.pdf** | Analytical report based on the Gapminder dataset | [Launch App](https://hai262-gapmindervisualization.streamlit.app/) |
