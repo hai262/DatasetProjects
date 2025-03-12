@@ -1,12 +1,12 @@
-# 📂 <span style="color:#FFD700;">**Dataset Repository for Streamlit Applications**</span>
+# 📂 **Dataset Repository for Streamlit Applications**
 This repository serves as a centralized hub for datasets used in my **Streamlit applications** and **data science projects**. Each dataset is linked to a specific project, enabling users to explore, analyze, and test models in real-time.
 
 ---
 
-## 📋 <span style="color:#00FF7F;">**Available Datasets & Their Applications**</span>
+## 📋 **Available Datasets & Their Applications**
 Below is a list of datasets provided in this repository, along with their respective use cases and corresponding **Streamlit applications** for interactive testing.
 
-| 📁 <span style="color:#FFA500;">**Dataset Name**</span> | 📝 <span style="color:#00BFFF;">**Description**</span> | 🚀 <span style="color:#FF4500;">**Test with Streamlit App**</span> |
+| 📁 **Dataset Name** | 📝 **Description** | 🚀 **Test with Streamlit App** |
 |--------------------|------------------|------------------|
 | **Mall_Customers.csv** | Customer segmentation data for clustering analysis | [Launch App](https://hai262-customersegmentationanalysis.streamlit.app/) |
 | **traffic.csv** | Traffic volume dataset for time-series forecasting | [Launch App](https://hai262-trafficprediction.streamlit.app/) |
@@ -22,7 +22,7 @@ Below is a list of datasets provided in this repository, along with their respec
 
 ---
 
-## 📥 <span style="color:#FFD700;">**How to Use These Datasets?**</span>
+## 📥 **How to Use These Datasets?**
 Follow these simple steps to make the most of this repository:
 1. **Download a dataset** by clicking on the file and selecting **Download**.
 2. **Open the corresponding Streamlit app** using the provided links.
@@ -31,7 +31,7 @@ Follow these simple steps to make the most of this repository:
 
 ---
 
-## 🎯 <span style="color:#00FF7F;">**Why This Repository?**</span>
+## 🎯 **Why This Repository?**
 This dataset repository is curated to:
 ✅ Ensure **seamless integration** with my Streamlit applications.  
 ✅ Enable **hands-on experience** for those interested in **data science and analytics**.  
@@ -39,11 +39,11 @@ This dataset repository is curated to:
 
 ---
 
-## 🌐 <span style="color:#FF4500;">**About Me**</span>
-🔹 **Portfolio Website:** [hai262.github.io](https://hai262.github.io/)  
+## 🌐 **About Me**
+🔹 **Portfolio Website:** [hai262.github.io](https://hai262.github.io/hainguyen.github.io/)  
 🔹 **GitHub Profile:** [github.com/hai262](https://github.com/hai262)  
 🔹 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/hai-nguyen-quoc-287953200/)  
 
 ---
 
-⚡ <span style="color:#FFA500;">**Stay tuned for updates!**</span> More datasets and projects will be added over time. Happy analyzing! 🚀
+⚡ **Stay tuned for updates!** More datasets and projects will be added over time. Happy analyzing! 🚀
