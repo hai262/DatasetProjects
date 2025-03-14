@@ -32,7 +32,7 @@ Follow these simple steps to make the most of this repository:
 ---
 
 ## 🎯 **Why This Repository?**
-This dataset repository is curated to:
+This dataset repository is curated to:  
 ✅ Ensure **seamless integration** with my Streamlit applications.  
 ✅ Enable **hands-on experience** for those interested in **data science and analytics**.  
 ✅ Facilitate **real-time testing** of machine learning models with pre-processed datasets.
